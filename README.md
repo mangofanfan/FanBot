@@ -4,6 +4,8 @@
 
 此项目拥有一个不成熟的网页版，基于 Flask 和 Mongodb 数据库： bot.fancraft.top 。
 
+项目基于 Python 3.6 开发。
+
 ## 使用说明
 
 使用 `pip install -r requirments.txt` 以安装 chatterbot 和 pyside2，建议使用镜像源加速安装。
